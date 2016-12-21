@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "994468E820D3635B48AE927D7D5D658C59D89972",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "994468E820D3635B48AE927D7D5D658C59D89972" : 9223372036854775807,
+    "3CCF31241C04A46A70B2ED63F3F9B754376D6710" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "E8BE7FF2-7563-4908-9323-F4ED9909CFCF",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "994468E820D3635B48AE927D7D5D658C59D89972" : "AC3.2-PeriodicTable\/",
+    "3CCF31241C04A46A70B2ED63F3F9B754376D6710" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "PeriodicTable",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "PeriodicTable\/PeriodicTable.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/amtung\/AC3.2.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3CCF31241C04A46A70B2ED63F3F9B754376D6710"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/amtung\/AC3.2-PeriodicTable.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "994468E820D3635B48AE927D7D5D658C59D89972"
+    }
+  ]
+}
