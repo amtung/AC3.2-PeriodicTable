@@ -20,6 +20,7 @@ class ElementCollectionViewController: UICollectionViewController, NSFetchedResu
     override func viewDidLoad() {
         super.viewDidLoad()
         
+        self.title = "Periodic Table"
         self.collectionView!.register(UINib(nibName:"ElementCollectionViewCell", bundle: nil), forCellWithReuseIdentifier: reuseIdentifier)
         //getDataThenSave()
         initializeFetchResultsController()
